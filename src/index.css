@@ -1,0 +1,118 @@
+.login {
+  height: 100vh;
+}
+
+.bg {
+  background-image: linear-gradient(rgb(62, 33, 63, 0.9), rgba(62, 33, 63, 0.5)),
+    url("./images/background.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.nav-bg,
+.footer-bg {
+  background-color: #69124a;
+}
+
+#hero .container {
+  height: 50vh;
+}
+
+body {
+  background-color: #146c7c27;
+}
+
+/* .generic {
+  padding: 100px 0;
+} */
+
+.img-fluid {
+  max-height: 50vh;
+}
+
+.personImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.img-container {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+}
+
+#review .container {
+  height: 50vh;
+}
+
+.carousel-prev-button,
+.carousel-next-button {
+  border: none;
+  background-color: #146c7c27;
+  border-radius: 50%;
+  align-items: center;
+  height: 50px;
+}
+
+.img-thumbnail {
+  background-color: #d8a7b1;
+  border: none;
+  padding: 0;
+  padding-left: 0.25rem;
+  padding-top: 0.25rem;
+}
+
+#contact .container {
+  height: 50vh;
+}
+
+#contact label {
+  color: #c0c0c0;
+}
+
+.facebook:hover {
+  color: #1877f2;
+}
+
+.twitter:hover {
+  color: #1da1f2;
+}
+
+.youtube:hover {
+  color: #cd201f;
+}
+
+.github:hover {
+  color: #00405d;
+}
+
+.medium:hover {
+  color: #02b875;
+}
+
+.reddit:hover {
+  color: #ff5700;
+}
+
+.reqColor {
+  color: #d8a7b1;
+}
+
+.btn-outline {
+  color: #d8a7b1;
+  border-color: #d8a7b1;
+}
+
+.btn-outline:hover {
+  background-color: #d8a7b1;
+  color: rgb(248, 249, 250);
+}
+
+.icon-color {
+  color: #d8a7b1;
+}
