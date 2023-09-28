@@ -1,6 +1,6 @@
-# My First React Project
+# My React Project
 
-This is my first react project.
+This is my react project.
 
 ## About the Project
 
